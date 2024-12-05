@@ -34,7 +34,7 @@
     "js-base64": "^3.7.5",
     "jsonwebtoken": "^9.0.2",
     "lodash": "^4.17.21",
-    "mongoose": "^8.0.1",
+    "mongoose": "^8.8.3",
     "nodemon": "^3.1.0",
     "pino": "^8.20.0",
     "pino-pretty": "^11.0.0",
