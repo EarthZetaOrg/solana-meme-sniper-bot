@@ -5,8 +5,7 @@ This Solana Memecoin Sniper Bot is designed to automate interactions with the Ra
 # 👋 Contact Me
 
 ### 
-Discord: earthzeta             
-Telegram: earthzeta
+Telegram: https://t.me/earthzeta
 ###
 <div style="display:flex; justify-content:space-evenly"> 
     <a href="https://discordapp.com/users/339619501081362432" target="_blank"><img alt="Discord"
