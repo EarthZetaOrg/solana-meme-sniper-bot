@@ -8,10 +8,12 @@ This Solana Memecoin Sniper Bot is designed to automate interactions with the Ra
 Telegram: https://t.me/earthzeta
 ###
 <div style="display:flex; justify-content:space-evenly"> 
-    <a href="https://discordapp.com/users/339619501081362432" target="_blank"><img alt="Discord"
-        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
     <a href="https://t.me/earthzeta" target="_blank"><img alt="Telegram"
         src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+    <a href="mailto:johncriswick25@gmail.com" target="_blank"><img alt="Email"
+        src="https://img.shields.io/badge/Gmail-CE5753?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://discordapp.com/users/339619501081362432" target="_blank"><img alt="Discord"
+        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </div>
 
 
@@ -103,3 +105,23 @@ Update the following environment variables in your backend `.env` file:
 - `CHECK_IF_MINT_IS_RENOUNCED=`: Set this to true or false to check if mint is renounced.
 - `COMMITMENT_LEVEL=`: Set the commitment level.
 - `ORIGIN_URL=`: The frontend URL for allowing CORS.
+
+## Conclusion
+
+This Solana Meme Sniper Bot provides a powerful toolset for automated trading on the Solana blockchain, specifically optimized for meme tokens on Raydium. By following the configuration guide and understanding the key features, you can effectively:
+
+- Monitor and snipe new token listings
+- Execute automated trades based on custom parameters
+- Manage your portfolio with built-in safety features
+- Optimize gas fees and transaction timing
+
+Remember to:
+- Always test with small amounts first
+- Keep your private keys secure
+- Monitor the bot's performance regularly
+- Stay updated with the latest releases
+
+For support, feature requests, or bug reports, please open an issue on the GitHub repository.
+
+**Disclaimer**: Trading cryptocurrencies carries inherent risks. This bot is provided as-is, and users should exercise caution and conduct their own research before trading.
+
